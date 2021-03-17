@@ -1,0 +1,16 @@
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.exe
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.deps.json
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.runtimeconfig.json
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.runtimeconfig.dev.json
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.dll
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\ref\PairsGivenSum.dll
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\bin\Debug\net5.0\PairsGivenSum.pdb
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.csprojAssemblyReference.cache
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.AssemblyInfoInputs.cache
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.AssemblyInfo.cs
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.dll
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\ref\PairsGivenSum.dll
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.pdb
+C:\Users\caleb\Documents\Coding Projects\PairsGivenSum\obj\Debug\net5.0\PairsGivenSum.genruntimeconfig.cache
